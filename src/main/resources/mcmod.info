@@ -1,8 +1,8 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "nike",
+  "name": "Set nike",
+  "description": "Armor, weapon and companion based on famous spanish music video "Los guantes negros de",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
